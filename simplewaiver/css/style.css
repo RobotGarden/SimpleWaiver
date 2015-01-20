@@ -1,0 +1,53 @@
+.simpleWrapperResponse{
+	text-align: center;
+	display: none;
+}
+
+.simpleWrapperSubmitting .coloredtext{
+	color: #F8A600;
+}
+
+.simpleWrapperSubmitted .coloredtext{
+	color: #2DAC57;
+}
+
+.simpleWrapperError .coloredtext{
+	color: #E94500;
+}
+
+.simpleWaiverInput{
+	width: 100%;
+}
+
+.simpleWaiverTable{
+	width: 100%;
+}
+
+.simpleWaiverButton{
+display:inline-block;
+text-decoration:none;
+font-size:13px;
+line-height:26px;
+height:28px;
+cursor:pointer;
+-webkit-appearance:none;
+-webkit-border-radius:3px;
+border-radius:3px;
+white-space:nowrap;
+-webkit-box-sizing:border-box;
+-moz-box-sizing:border-box;
+box-sizing:border-box;
+border-style:solid;
+border-width:0px;
+margin:0;
+padding:0 10px 1px;
+
+background:#00bbb2;
+color: white;
+/* -webkit-box-shadow:inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+box-shadow:inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+color:#fff;
+text-decoration:none;
+border-color:#0074a2;
+*/
+}
